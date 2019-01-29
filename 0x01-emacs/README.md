@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-Hello Ubuntu
+Open a file in emacs.
